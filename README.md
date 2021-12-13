@@ -5,7 +5,7 @@
 # Hi 👋 , I'm Batuhan
 
 ## A Frontend Developer from Turkey
-<hr>
+
 <h3>Technologies:</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
