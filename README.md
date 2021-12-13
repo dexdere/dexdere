@@ -1,8 +1,10 @@
+
+
+<!-- TECHNOLOGIES -->
+
 # Hi 👋 , I'm Batuhan
 
 ## A Frontend Developer from Turkey
-
-<!-- TECHNOLOGIES -->
 <hr>
 <h3>Technologies:</h3>
 <p>
