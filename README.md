@@ -1,12 +1,10 @@
-<h2 align="center"> Hi 👋 , I'm Batuhan <br><h2>
-<h3 align="center"> A Frontend Developer from Turkey <br><h2>
+<h2 align="center"> Hi 👋 , I'm Batuhan <h2>
+<h3 align="center"> A Frontend Developer from Turkey <h2>
 
 <div align="center">
-
 [![](https://raw.githubusercontent.com/dexdere/dexdere/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/dexdere/dexdere/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dexdere/dexdere/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/dexdere/dexdere/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dexdere/dexdere/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 </div>
 
 <!-- TECHNOLOGIES -->
