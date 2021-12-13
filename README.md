@@ -38,7 +38,7 @@
 <h3>Connect with me</h3>
 <p>
   <a href="https://www.linkedin.com/in/batuhanmunger/" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="48" height="48"  /></a>
-  <a href="https://instagram.com/josue_rojasv" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="48" height="48" /></a>
+  <a href="https://www.instagram.com/batuhanmunger/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="48" height="48" /></a>
 
 </p>
 </div>
