@@ -1,15 +1,14 @@
 <div align="center">
-<h2> Hi 👋 , I'm Batuhan <br><h2>
-<h3"> A Frontend Developer from Turkey<h2>
-
-<div style="float:right"> 
-
-[![](https://raw.githubusercontent.com/dexdere/dexdere/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/dexdere/dexdere/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dexdere/dexdere/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/dexdere/dexdere/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dexdere/dexdere/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  <h2> Hi 👋 , I'm Batuhan <br><h2>
+  <h3"> A Frontend Developer from Turkey<h2>
 </div>
 
+<div style="display:grid; grid-template-columns: 1fr 1fr;">
 
+
+
+
+<div style="grid-column: 1 / 2">
 <!-- TECHNOLOGIES -->
 <hr>
 <h3>Technologies:</h3>
@@ -43,4 +42,12 @@
   <a href="https://www.linkedin.com/in/batuhanmunger/" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"  /></a>
   <a href="https://www.instagram.com/batuhanmunger/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40" /></a>
 </p>
+  </div>
+  <div style="grid-column: 2 / 3">
+
+[![](https://raw.githubusercontent.com/dexdere/dexdere/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/dexdere/dexdere/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dexdere/dexdere/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/dexdere/dexdere/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dexdere/dexdere/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
 </div>
