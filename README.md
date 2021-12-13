@@ -1,14 +1,11 @@
-<div align="center">
-  <h2> Hi 👋 , I'm Batuhan <br><h2>
-  <h3"> A Frontend Developer from Turkey<h2>
+<div style="text-align: center;">
+  <h1> Hi 👋 , I'm Batuhan <br><h2>
+  <h2"> A Frontend Developer from Turkey<h2>
 </div>
 
-<div style="display:grid; grid-template-columns: 1fr 1fr;">
+<div>
 
-
-
-
-<div style="grid-column: 1 / 2">
+<div>
 <!-- TECHNOLOGIES -->
 <hr>
 <h3>Technologies:</h3>
@@ -43,7 +40,7 @@
   <a href="https://www.instagram.com/batuhanmunger/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40" /></a>
 </p>
   </div>
-  <div style="grid-column: 2 / 3">
+  <div align="center">
 
 [![](https://raw.githubusercontent.com/dexdere/dexdere/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/dexdere/dexdere/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dexdere/dexdere/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
